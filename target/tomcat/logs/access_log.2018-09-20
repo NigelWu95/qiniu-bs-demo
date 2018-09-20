@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:42 +0800] "GET /QiniuBSUsageDemo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/ HTTP/1.1" 200 5284 http-bio-8080-exec-3 669
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/styles/main.css HTTP/1.1" 200 2606 http-bio-8080-exec-5 10
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/bootstrap3/js/jquery-1.11.1.min.js HTTP/1.1" 200 95786 http-bio-8080-exec-7 5
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/bootstrap3/js/bootstrap.min.js HTTP/1.1" 200 35601 http-bio-8080-exec-8 7
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/styles/highlight.css HTTP/1.1" 200 1636 http-bio-8080-exec-6 20
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/scripts/main.js HTTP/1.1" 200 4830 http-bio-8080-exec-9 7
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/bootstrap3/css/bootstrap-theme.min.css HTTP/1.1" 200 19835 http-bio-8080-exec-2 48
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/bootstrap3/css/bootstrap.min.css HTTP/1.1" 200 113498 http-bio-8080-exec-4 63
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/plupload/moxie.js HTTP/1.1" 200 293718 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/qiniu/highlight.js HTTP/1.1" 200 19067 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/plupload/plupload.dev.js HTTP/1.1" 200 63883 http-bio-8080-exec-9 15
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/qiniu/ui.js HTTP/1.1" 200 13032 http-bio-8080-exec-10 18
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/qiniu/qiniu.min.js HTTP/1.1" 200 146382 http-bio-8080-exec-7 14
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:43 +0800] "GET /QiniuBSUsageDemo/bootstrap3/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23320 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:33:45 +0800] "GET /QiniuBSUsageDemo/images/favicon.ico HTTP/1.1" 200 5430 http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [20/Sep/2018:16:34:05 +0800] "GET /QiniuBSUsageDemo/uploadToken?params=%7B%22duibaPcdata%22%3A%7B%22uid%22%3A1553546440%2C%22limitNum%22%3A%2250%22%2C%22appKey%22%3A%22Whd5g8yrvezGHf752kqjxf8spPX%22%2C%22timestamp%22%3A1533471157143%2C%22sign%22%3A%2222a532e5dc3423cebd6ffa4031b6b7ee%22%7D%7D&callbackUrl= HTTP/1.1" 200 628 http-bio-8080-exec-2 279
